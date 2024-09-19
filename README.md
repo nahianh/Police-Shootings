@@ -3,3 +3,4 @@ In this project, I use SQL and Tableau to explore the Washington Post's Fatal Fo
 
 Detailed documentation of the data can be found here: https://github.com/washingtonpost/data-police-shootings/tree/master/v2
 
+My Tableau Dashboard: https://public.tableau.com/app/profile/nahian.haque/viz/FatalPoliceShootings2015-2024/Dashboard1
